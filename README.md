@@ -59,4 +59,5 @@ plt.title("Regression Line")
 
 # Results and Output : 
 ![img2](https://user-images.githubusercontent.com/75235128/172646497-fa078ae8-1800-490d-8489-7ddd92fccf6b.png)
+<br>
 Given data is analysed using coefficient of correlation and regression line.
